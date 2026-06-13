@@ -1,4 +1,4 @@
-# Hi, I'm Thiago Buttler
+# Hi, I'm Thiago
 
 Data professional with over 4 years of experience transforming data into business value. Currently working as a Data Analyst, building ETL/ELT pipelines and Power BI dashboards while enabling data-driven decision-making in the healthcare industry.
 
