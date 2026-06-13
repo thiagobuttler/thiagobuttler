@@ -1,16 +1,86 @@
-# Thiago Buttler
+# Hi, I'm Thiago Buttler
 
-## Social 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-buttler/)
+Data professional with over 4 years of experience transforming data into business value. Currently working as a Data Analyst, building ETL/ELT pipelines and Power BI dashboards while enabling data-driven decision-making in the healthcare industry.
 
-## Skills ⚙️
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
 
-## GitHub Stats 📊
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thiagobuttler&layout=compact&bg_color=000&border_color=00FFFF&title_color=00FFFF&text_color=FFF)
+---
 
-## Minhas Contribuições 🫱🏻‍🫲🏻
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagobuttler&repo=ProjetoA3PrimeiroSemestre&bg_color=000&border_color=00FFFF&show_icons=true&icon_color=30A3DC&title_color=00FFFF&text_color=FFF)](https://github.com/thiagobuttler/ProjetoA3PrimeiroSemestre)
+## 🚀 About Me
 
-![snake_eif](https://github.com/thiagobuttler/thiagobuttler/blob/output/github-contribution-grid-snake.svg)
+* 📊 4+ years of experience working with data in healthcare environments
+* ☁️ Hands-on experience with cloud and data platforms
+* 🎓 MBA in Data Engineering at FIAP
+* 🌎 Advanced English (B2)
+* 📚 Passionate about continuous learning and building impactful data solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages & Querying
+
+* Python
+* SQL
+* PySpark
+* PowerShell
+* VBA
+
+### ☁️ Cloud & Data Platforms
+
+* Azure
+* AWS
+* Snowflake
+* Databricks
+
+### 🏗️ Data Engineering
+
+* ETL / ELT Pipelines
+* Data Modeling
+* Data Lakehouse
+* Medallion Architecture
+* Data Mesh Concepts
+* Data Governance
+* Data Anonymization (LGPD)
+
+### 📈 Analytics & Visualization
+
+* Power BI
+* Excel
+
+### 🔧 Tools & Collaboration
+
+* Git
+* Azure DevOps
+
+---
+
+## 🎓 Certifications
+
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+* Microsoft Certified: Azure AI Fundamentals (AI-900)
+* AWS Knowledge: Cloud Essentials
+* Power BI
+* SQL Server
+* Data Analysis and Programming with Python
+
+---
+
+## 🌱 Currently Learning
+
+* Apache Airflow
+* Data Architectures
+* Data Orchestration
+* Advanced Cloud Data Services
+
+---
+
+## 🎯 Career Goal
+
+To build reliable, scalable, and impactful data solutions that empower organizations to make better decisions through data.
+
+---
+
+## 🤝 Let's Connect
+
+* LinkedIn: https://www.linkedin.com/in/thiago-buttler/
+* GitHub: https://github.com/thiagobuttler
