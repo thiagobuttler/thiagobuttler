@@ -65,6 +65,12 @@ Data professional with over 4 years of experience transforming data into busines
 
 ---
 
+## 📚 Education
+* MBA in Data Engineering – FIAP (In Progress)
+* Software Analysis and Development – Universidade São Judas Tadeu
+
+---
+
 ## 🌱 Currently Learning
 
 * Apache Airflow
