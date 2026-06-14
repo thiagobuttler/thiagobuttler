@@ -5,7 +5,7 @@ Data professional with over 4 years of experience transforming data into busines
 
 ---
 
-## 🚀 About Me
+## 🧑🏻‍💻 About Me
 
 * 4+ years of experience working with data in healthcare environments
 * Hands-on experience with cloud and data platforms
