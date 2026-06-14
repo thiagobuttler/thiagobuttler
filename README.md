@@ -7,17 +7,17 @@ Data professional with over 4 years of experience transforming data into busines
 
 ## 🚀 About Me
 
-* 📊 4+ years of experience working with data in healthcare environments
-* ☁️ Hands-on experience with cloud and data platforms
-* 🎓 MBA in Data Engineering at FIAP
-* 🌎 Advanced English (B2)
-* 📚 Passionate about continuous learning and building impactful data solutions
+* 4+ years of experience working with data in healthcare environments
+* Hands-on experience with cloud and data platforms
+* MBA in Data Engineering at FIAP
+* Advanced English (B2)
+* Passionate about continuous learning
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Querying
+### Languages & Querying
 
 * Python
 * SQL
@@ -25,14 +25,14 @@ Data professional with over 4 years of experience transforming data into busines
 * PowerShell
 * VBA
 
-### ☁️ Cloud & Data Platforms
+### Cloud & Data Platforms
 
 * Azure
 * AWS
 * Snowflake
 * Databricks
 
-### 🏗️ Data Engineering
+### Data Engineering
 
 * ETL / ELT Pipelines
 * Data Modeling
@@ -42,12 +42,12 @@ Data professional with over 4 years of experience transforming data into busines
 * Data Governance
 * Data Anonymization (LGPD)
 
-### 📈 Analytics & Visualization
+### Analytics & Visualization
 
 * Power BI
 * Excel
 
-### 🔧 Tools & Collaboration
+### Tools & Collaboration
 
 * Git
 * Azure DevOps
@@ -77,12 +77,6 @@ Data professional with over 4 years of experience transforming data into busines
 * Data Architectures
 * Data Orchestration
 * Advanced Cloud Data Services
-
----
-
-## 🎯 Career Goal
-
-To build reliable, scalable, and impactful data solutions that empower organizations to make better decisions through data.
 
 ---
 
